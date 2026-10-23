@@ -12,11 +12,8 @@
 
 ## 3. Логи тестирования
 В джобе `Build & Test` успешно пройдены проверки типов (`cargo check`), сборка debug/release версий и запуск тестов (`cargo test`).
-**[ВСТАВЬ СЮДА СКРИН 3: Раскрытый лог джоба Build & Test (где видно, что тесты прошли успешно)]**
+**<img width="647" height="168" alt="изображение" src="https://github.com/user-attachments/assets/17ce3e7f-3159-48b5-b247-fd48754d4fb4" />**
 
-## 4. Логи сборки Docker-образа
-Джоб `Build Docker Image` успешно собрал образ с помощью Docker Buildx и проверил его работоспособность.
-**[ВСТАВЬ СЮДА СКРИН 4: Раскрытый шаг "Test Docker image" с выводом "Hello from Rust in Docker! 🦀"]**
 
 
 
